@@ -21,8 +21,9 @@ class ViewController: UIViewController, UITableViewDataSource {
         let pkm2: Pokemon = Pokemon(name: "Charmander", nameFoto: "charmander")
         let pkm3: Pokemon = Pokemon(name: "Ninetales", nameFoto: "ninetales")
         let pkm4: Pokemon = Pokemon(name: "Snorlax", nameFoto: "snorlax")
+        let pkm5: Pokemon = Pokemon(name: "Seel", nameFoto: "seel")
         
-        pokemons = [pkm1,pkm2,pkm3,pkm4]
+        pokemons = [pkm1,pkm2,pkm3,pkm4,pkm5]
    
     }
 
